@@ -1,0 +1,3 @@
+This folder contains the code required to generate the main results of Meirhaeghe et al. 2021. The code is separated by experiment (reproduction and gain task). The functions used for the adaptation experiments are the same as for the reproduction and gain tasks. Data for the adaptation experiment are available upon request from mjaz@mit.edu. For additional information, contact nmrghe@gmail.com.
+
+The code was run on Matlab 2017a.
